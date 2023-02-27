@@ -26,3 +26,10 @@ h1{
     color: aqua;
 }
 
+.lorem,.tim-img {
+    padding-top: 20px;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
