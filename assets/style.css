@@ -76,6 +76,10 @@ aside{
     width: 311px;
     height: 207px;
     margin-bottom: 20px;
+}
+
+a{
+    text-decoration: none; 
     font-size: 30px;
     color: white;
 }
