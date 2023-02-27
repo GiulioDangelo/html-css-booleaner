@@ -50,3 +50,17 @@ table {
   td{
     width: 700px;
   }
+
+a{
+    background-image: url("../img/graph.jpg");
+    width: auto;
+}
+
+aside{
+    padding-top: 40px;
+    color: gray;
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+}
