@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header{
+    background-image:url("img/pattern.png");
+    background-color: rgb(60, 148, 255);
+
+}
+
+.logo{
+    width: 400px;
+    margin-top: 25px;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.autore{
+    color: gray;
+}
+
+#booleaner{
+    color: aqua;
+}
+
