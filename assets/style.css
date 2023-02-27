@@ -26,7 +26,7 @@ h1{
     color: aqua;
 }
 
-.lorem,.tim-img {
+.container{
     padding-top: 20px;
 }
 
@@ -37,3 +37,16 @@ h1{
 .blue{
 background-color: lightblue;
 }
+
+.table-title{
+    background-color: rgb(61, 142, 255);
+    color: white;
+}
+
+table {
+    border-spacing: 0px;
+  }
+
+  td{
+    width: 700px;
+  }
