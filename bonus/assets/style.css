@@ -34,6 +34,10 @@ h1{
     padding-top: 20px;
 }
 
+p{
+    max-width: 2100px;
+}
+
 .evidenziato{
     background-color: yellow;
 }
